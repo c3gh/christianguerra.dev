@@ -46,7 +46,7 @@ const Timeline = () => {
             position: relative;
           }
           .line::after {
-            background-color: #9e9c9c;
+            background-color: var(--dark);
             content: '';
             height: 100%;
             left: 50%;

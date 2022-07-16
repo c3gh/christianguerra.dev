@@ -29,7 +29,7 @@ const TimelineItem = ({
           margin-bottom: 1rem;
         }
         .experience::after {
-          background-color: #9e9c9c;
+          background-color: var(--dark);
           border-radius: 999px;
           content: '';
           height: 10px;
